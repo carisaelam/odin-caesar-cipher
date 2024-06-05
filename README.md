@@ -1,2 +1,3 @@
-# odin-caesar-cipher
-Caesar cipher Ruby project for TOP 
+# Caesar Cipher Ruby project for TOP
+
+In this project, I implemented a Caesar Cipher in Ruby as part of The Odin Project's curriculum. The Caesar Cipher is a basic encryption technique where each letter in the plaintext is shifted a certain number of places down or up the alphabet. I created functions to handle the encryption process, ensuring that both uppercase and lowercase letters are shifted correctly while preserving non-alphabetic characters. This project helped me deepen my understanding of Ruby's string manipulation capabilities and solidified my grasp of fundamental programming concepts such as loops, conditionals, and modular arithmetic.
